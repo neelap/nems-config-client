@@ -1,11 +1,7 @@
 ---
 spring:
-  profiles:
-    active: northamerica
   application:
-    name: lab-3-client
+    name: eureka1
   cloud:
     config:
       uri: http://localhost:8001
-server:
-  port: 8002

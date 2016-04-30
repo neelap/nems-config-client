@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class ConfigServerTest {
-    @Value("${lucky-word}") String luckyWord;
+    @Value("${server.port}") String luckyWord;
 
     @RequestMapping("/lucky-word")
     public String showLuckyWord() {
