@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4e8e08a-4333-4441-ba1b-9c00b0f6e322" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/nems/config/server/ConfigServerTest.class" afterPath="$PROJECT_DIR$/target/classes/com/nems/config/server/ConfigServerTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/nems/config/server/ConfigServerTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/nems/config/server/ConfigServerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/bootstrap.yml" afterPath="$PROJECT_DIR$/target/classes/bootstrap.yml" />
     </list>
     <ignored path="NemsConfigServer.iws" />
@@ -695,12 +692,19 @@
       <workItem from="1461860240120" duration="3515000" />
       <workItem from="1461919415672" duration="586000" />
       <workItem from="1462007856490" duration="2815000" />
-      <workItem from="1462015529619" duration="1426000" />
+      <workItem from="1462015529619" duration="1466000" />
     </task>
+    <task id="LOCAL-00001" summary="cxvcxb">
+      <created>1462022474370</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1462022474370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18361000" />
+    <option name="totallyTimeSpent" value="18401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="419" y="0" width="954" height="745" extended-state="0" />
@@ -735,6 +739,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="cxvcxb" />
+    <option name="LAST_COMMIT_MESSAGE" value="cxvcxb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
